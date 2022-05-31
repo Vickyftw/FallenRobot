@@ -29,7 +29,8 @@ async def repo(client, message):
                     InlineKeyboardButton(
                         "• ᴏᴡɴᴇʀ •", url="tg://user?id=2005952005"), 
                     InlineKeyboardButton(
-                        "• sᴏᴜʀᴄᴇ •", url="https://github.com/AnonymousBoy1025/FallenRobot")
+                        "• sᴏᴜʀᴄᴇ •", url="https://github.com
+                        ")
                 ]
             ]
         )
